@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702440099327",
+    "project_id": "showpriceandpicapp",
+    "storage_bucket": "showpriceandpicapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702440099327:android:529f6536ec21e0945bebca",
+        "android_client_info": {
+          "package_name": "com.example.showpriceandpicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARRDJ8Fz7y6MSe_uUPWaFhWtb3IadILrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
